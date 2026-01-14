@@ -14,7 +14,7 @@ VPN: clash verge | openvpn
 
 语言包管理: pip | mamba | vcpkg | maven | cargo(自带)
 
-开发周边: git | cmake | ninja | ccache | docker | shellcheck
+开发周边: git | cmake | ninja | ccache | docker
 
 编辑器: vscode
 
