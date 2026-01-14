@@ -20,4 +20,4 @@ VPN: clash verge | openvpn
 
 笔记：drawio | obsidian
 
-软件：爱奇异 | bilibili | 学习通 | WPS | 微信 | 剪映 | steam | 腾讯会议 | 百度云 | 夸克云 | todesk | 网易邮箱 
+软件：爱奇异 | bilibili | 学习通 | WPS | 微信 | 剪映 | steam | 腾讯会议 | 百度云 | 夸克云 | todesk | 网易邮箱 | bandzip
