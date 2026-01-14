@@ -10,7 +10,7 @@ VPN: clash verge | openvpn
 
 驱动：NVIDIA
 
-语言工具链: gcc | openjdk | python | rustup | golang
+语言工具链: gcc | openjdk | python | rustup | golang | node
 
 语言包管理: pip | mamba | vcpkg | maven | cargo(自带)
 
